@@ -22,7 +22,7 @@ export default function Home() {
       <div className="relative z-20 w-full max-w-4xl">
         <h1 className="text-center mb-6">
           <span className="font-black text-5xl md:text-7xl tracking-tighter uppercase text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-400 to-teal-300 drop-shadow-[0_0_10px_rgba(255,65,180,0.8)]">
-            VICE CITY
+            THE CITY
           </span>
           <span className="block text-2xl md:text-3xl font-bold text-white mt-2 italic tracking-wide drop-shadow-[0_0_5px_rgba(0,242,234,0.8)]">
             CONTRABAND HUSTLE
