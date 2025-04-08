@@ -99,7 +99,7 @@ export default function ViceCityGame() {
               transition={{ duration: 0.5 }}
               className="mb-6"
             >
-              <h2 className="text-2xl font-bold text-pink-500 mb-4 uppercase tracking-wider">WELCOME TO THE HUSTLE</h2>
+              <h2 className="text-2xl font-bold text-pink-500 mb-4 uppercase tracking-wider">WELCOME TO THE GAME</h2>
               <p className="text-teal-300 mb-6 text-lg">
                 The cops are onto a shipment of <span className="text-pink-400 font-bold">contraband</span>. Your job is
                 to track which briefcase contains the goods after the shuffle. Find it and earn $500. Guess wrong and
