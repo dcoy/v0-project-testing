@@ -108,7 +108,7 @@ export default function ViceCityGame() {
             </motion.div>
 
             <NeonButton onClick={startGame} color="pink">
-              START HUSTLING
+              START GAMING
             </NeonButton>
           </div>
         ) : (
